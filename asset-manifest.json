@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-card-app/static/css/main.5613a506.css",
+    "main.js": "/my-card-app/static/js/main.889c9ef1.js",
+    "index.html": "/my-card-app/index.html",
+    "main.5613a506.css.map": "/my-card-app/static/css/main.5613a506.css.map",
+    "main.889c9ef1.js.map": "/my-card-app/static/js/main.889c9ef1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5613a506.css",
+    "static/js/main.889c9ef1.js"
+  ]
+}
